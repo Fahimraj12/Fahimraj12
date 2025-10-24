@@ -16,7 +16,7 @@
 <a href="https://twitter.com/itsfahim_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsfahim_raj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mo-fahim-raj-175b9b304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mofahimraj" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mofahimraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahimraj" height="30" width="40" /></a>
-<a href="[https://instagram.com/itsfahim_raj](https://www.instagram.com/itsfahim_raj?igsh=MWJxNzVubDk4NHQ1NA==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsfahim_raj" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itsfahim_raj?igsh=MWJxNzVubDk4NHQ1NA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsfahim_raj" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/FE6iT2I9Qe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahim raj" height="30" width="40" /></a>
 </p>
 
