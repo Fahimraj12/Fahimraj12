@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mo Fahim Raj</h1>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Fahimraj12)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://your-portfolio-link.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Fahimraj12)
 
 > Full Stack Developer | React Enthusiast | Backend Specialist
 <h3 align="center">I’m a passionate Bachelor of Sciences- Information Technology(IT) student with growing experience in Python, C/C++, and full-stack development. I enjoy learning about AI/ML, building real-world applications, and continuously pushing myself to grow in the tech field. Over the past year, I’ve worked on multiple academic and personal projects using tools like VS Code, Jupyter Notebook, GitHub, and more.</h3>
