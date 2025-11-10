@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Fahimraj12)
 
-> Full Stack Developer | React Enthusiast | Backend Specialist
+> Student at PPSU | Newsletter Designer at Beats@PPSU | MERN Stack | AI/ML Enthusiast | Android Developer | Python | Data Science
 
 Welcome to my Github profile! A modern, responsive web application showcasing my projects, skills, and journey as a developer.
 
