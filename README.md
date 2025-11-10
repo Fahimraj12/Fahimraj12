@@ -6,7 +6,7 @@
 
 > Full Stack Developer | React Enthusiast | Backend Specialist
 
-Welcome to my personal portfolio! A modern, responsive web application showcasing my projects, skills, and journey as a developer.
+Welcome to my Github profile! A modern, responsive web application showcasing my projects, skills, and journey as a developer.
 
 <h3 align="center">I’m a passionate Bachelor of Sciences- Information Technology(IT) student with growing experience in Python, C/C++, and full-stack development. I enjoy learning about AI/ML, building real-world applications, and continuously pushing myself to grow in the tech field. Over the past year, I’ve worked on multiple academic and personal projects using tools like VS Code, Jupyter Notebook, GitHub, and more.</h3>
 
