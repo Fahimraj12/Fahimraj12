@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mo Fahim Raj</h1>
-<center>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://github.com/Fahimraj12/Fahim-s-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Fahimraj12)
-</center>
+
 > Student at PPSU | Newsletter Designer at Beats@PPSU | MERN Stack | AI/ML Enthusiast | Android Developer | Python | Data Science
 
 Welcome to my Github profile! A modern, responsive web application showcasing my projects, skills, and journey as a developer.
