@@ -18,7 +18,7 @@ Welcome to my Github profile! A modern, responsive web application showcasing my
 
 - 📫 How to reach me **mofahimraj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12y5VB7KQLmHr1lFEn6hJgen_ThPmPGaY/view?usp=sharing](https://drive.google.com/file/d/12y5VB7KQLmHr1lFEn6hJgen_ThPmPGaY/view?usp=sharing)
+- 📄 Know about my experiences or want to download my resume[https://drive.google.com/file/d/12y5VB7KQLmHr1lFEn6hJgen_ThPmPGaY/view?usp=sharing](https://drive.google.com/file/d/12y5VB7KQLmHr1lFEn6hJgen_ThPmPGaY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
