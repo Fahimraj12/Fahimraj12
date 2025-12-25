@@ -10,7 +10,6 @@ Welcome to my Github profile! A modern, responsive web application showcasing my
 
 <h3 align="center">I’m a passionate Bachelor of Sciences- Information Technology(IT) student with growing experience in Python, C/C++, and full-stack development. I enjoy learning about AI/ML, building real-world applications, and continuously pushing myself to grow in the tech field. Over the past year, I’ve worked on multiple academic and personal projects using tools like VS Code, Jupyter Notebook, GitHub, and more.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimraj12" alt="fahimraj12" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fahimraj12/Fahim-s-Portfolio](https://github.com/Fahimraj12/Fahim-s-Portfolio)
 
