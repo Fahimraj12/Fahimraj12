@@ -3,8 +3,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://github.com/Fahimraj12/Fahim-s-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Fahimraj12)
-![GitHub stars](https://img.shields.io/github/stars/Fahimraj12/style=social)
-![GitHub forks](https://img.shields.io/github/forks/Fahimraj12/style=social)
+![GitHub stars](https://img.shields.io/github/stars/Fahimraj12/fahimraj12?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Fahimraj12/fahimraj12?style=social)
 
 > MERN Stack Developer Intern at Nightfox technologies | Student at PPSU | MERN Stack | AI/ML Enthusiast | Android Developer | Python | Data Science
 
