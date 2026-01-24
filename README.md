@@ -13,13 +13,13 @@ Welcome to my Github profile! A modern, responsive web application showcasing my
 <h3 align="center">I’m a passionate Bachelor of Sciences- Information Technology(IT) student with growing experience in Python, C/C++, and full-stack development. I enjoy learning about AI/ML, building real-world applications, and continuously pushing myself to grow in the tech field. Over the past year, I’ve worked on multiple academic and personal projects using tools like VS Code, Jupyter Notebook, GitHub, and more.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fahimraj12/Fahim-s-Portfolio](https://github.com/Fahimraj12/Fahim-s-Portfolio)
+- 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://github.com/Fahimraj12/Fahim-s-Portfolio)
 
 - 💬 Ask me about **mern stack and data science**
 
 - 📫 How to reach me **mofahimraj@gmail.com**
 
-- 📄 Know about my experiences or want to download my resume: [https://drive.google.com/file/d/12y5VB7KQLmHr1lFEn6hJgen_ThPmPGaY/view?usp=sharing](https://drive.google.com/file/d/12y5VB7KQLmHr1lFEn6hJgen_ThPmPGaY/view?usp=sharing)
+- 📄 Know about my experiences or want to download my resume: [Resume Download Link](https://drive.google.com/file/d/12y5VB7KQLmHr1lFEn6hJgen_ThPmPGaY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
