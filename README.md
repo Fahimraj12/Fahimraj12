@@ -17,7 +17,7 @@ Welcome to my Github profile! A modern, responsive web application showcasing my
 
 - 💬 Ask me about **mern stack and data science**
 
-- 📫 How to reach me **mofahimraj@gmail.com**
+- 📫 How to reach me **[Gmail](mofahimraj@gmail.com)**
 
 - 📄 Know about my experiences or want to download my resume: [Resume Download Link](https://drive.google.com/file/d/12y5VB7KQLmHr1lFEn6hJgen_ThPmPGaY/view?usp=sharing)
 
