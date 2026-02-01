@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mo Fahim Raj</h1>
-<p align="center">
-  <img src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
-</p>
-
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://github.com/Fahimraj12/Fahim-s-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Fahimraj12)
 ![GitHub stars](https://img.shields.io/github/stars/Fahimraj12/fahimraj12?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Fahimraj12/fahimraj12?style=social)
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/27b09a90dd12e35fd70da0582bf732c54188901f8242e35d3ca993f30cbee171/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" />
+</p>
+
+
+
 
 > MERN Stack Developer Intern at Nightfox technologies | Student at PPSU | MERN Stack | AI/ML Enthusiast | Android Developer | Python | Data Science
 
