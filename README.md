@@ -15,7 +15,6 @@
 
 
 
-
 > MERN Stack Developer Intern at Nightfox technologies | Student at PPSU | MERN Stack | AI/ML Enthusiast | Android Developer | Python | Data Science
 
 Welcome to my Github profile! A modern, responsive web application showcasing my projects, skills, and journey as a developer.
