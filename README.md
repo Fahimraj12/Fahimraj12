@@ -49,6 +49,7 @@ Welcome to my Github profile! A modern, responsive web application showcasing my
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fahimraj12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github.com/Fahimraj12?achievement=pull-shark&tab=achievements)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fahimraj12&limit=5&theme=dark&combine_all_yearly_contributions=true)
