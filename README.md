@@ -26,7 +26,7 @@ Welcome to my Github profile! A modern, responsive web application showcasing my
 
 - 💬 Ask me about **mern stack and data science**
 
-- 📫 How to reach me **[![Mail](https://img.shields.io/badge/email)](mofahimraj@gmail.com)**
+- 📫 How to reach me **[Mail](mofahimraj@gmail.com)**
 
 - 📄 Know about my experiences or want to download my resume: [Resume Download Link](https://drive.google.com/file/d/12y5VB7KQLmHr1lFEn6hJgen_ThPmPGaY/view?usp=sharing)
 
