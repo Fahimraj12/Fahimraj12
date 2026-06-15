@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mo Fahim Raj</h1>
-<center>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://github.com/Fahimraj12/Fahim-s-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
