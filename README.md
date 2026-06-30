@@ -16,7 +16,7 @@
 
 Welcome to my Github profile! A modern, responsive web application showcasing my projects, skills, and journey as a developer.
 
-<h3 align="center">I’m a passionate Bachelor of Sciences- Information Technology(IT) student with growing experience in Python, C/C++, and full-stack development. I enjoy learning about AI/ML, building real-world applications, and continuously pushing myself to grow in the tech field. Over the past year, I’ve worked on multiple academic and personal projects using tools like VS Code, Jupyter Notebook, GitHub, and more.</h3>
+<h3 align="center">I’m a passionate  Technology(IT) student with growing experience in Python, C/C++, and full-stack development. I enjoy learning about AI/ML, building real-world applications, and continuously pushing myself to grow in the tech field. Over the past year, I’ve worked on multiple academic and personal projects using tools like VS Code, Jupyter Notebook, GitHub, and more.</h3>
 
 
 - 👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green)](https://github.com/Fahimraj12/Fahim-s-Portfolio)
