@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mo Fahim Raj</h1>
-I’m a passionates Software Engineer with growing experience in full-stack development Python, and C/C++ . I enjoy learning about AI/ML, building real-world applications, and continuously pushing myself to grow in the tech field.
+I’m a passionates Software Engineer with growing experience in full-stack development, Python, and C/C++ . I enjoy learning about AI/ML, building real-world applications, and continuously pushing myself to grow in the tech field.
 
 
 ## 🌐 Socials:
