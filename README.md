@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mo Fahim Raj</h1>
 I’m a passionates Software Engineer with growing experience in full-stack development, Python, and C/C++ . I enjoy learning about AI/ML, building real-world applications, and continuously pushing myself to grow in the tech field.
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsfahimraj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsfahim_raj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mofahimraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itsfahimraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mofahimraj@gmail.com) 
 
