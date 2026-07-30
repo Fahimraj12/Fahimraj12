@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mo Fahim Raj</h1>
-Designing seamless digital experiences through clean code and thoughtful engineering. As a Software Engineer, I build scalable web applications with a focus on performance, simplicity, and meaningful user impact.
+Designing seamless digital experiences through clean code and thoughtful engineering. As a **Software Engineer**, I build scalable web applications with a focus on performance, simplicity, and meaningful user impact.
 
 
 ## 🌐 Socials:
